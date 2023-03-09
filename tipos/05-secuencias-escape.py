@@ -1,2 +1,8 @@
-curso = 'Ultimate "python"'
+#COMENTARIO! 
+#\"
+#\'
+#\\
+#\N
+
+curso = 'Ultimate\"python\"'
 print(curso)
